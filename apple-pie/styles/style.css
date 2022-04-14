@@ -37,7 +37,7 @@ li {
 header {
     height: 1100px;
     text-align: center;
-    background-image: url(/lab-css-recipes-clone/apple-pie/images/apple-pie.jpg);
+    background-image: url(../images/apple-pie.jpg);
     background-size: cover;
     background-position: 0 -120px;
     background-repeat: no-repeat;
